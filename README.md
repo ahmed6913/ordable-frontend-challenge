@@ -95,6 +95,6 @@ Ensure you have installed:
 git clone https://github.com/ahmed6913/ordable-frontend-challenge.git
 cd ordable-frontend-challenge
 npm install
-npm run dev (will start running or localhost)
+npm run dev (will start running on localhost)
 
 
