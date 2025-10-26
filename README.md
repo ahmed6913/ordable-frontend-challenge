@@ -56,6 +56,22 @@ This project focuses on frontend architecture, UI/UX, and efficient state handli
 
 ---
 
-## 📁 Project Structure
+## 📌 How the App Works
+
+✅ Place an Order
+
+- Browse products on the Home page (fetched from a fake API)
+- Add items to the cart
+- Cart data is stored in Browser Local Storage
+
+📦 Proceed to Checkout
+
+- Submit customer info to generate a mock Order ID
+
+🔍 Track an Order
+
+- Navigate to Track Order
+- Enter a mock order ID
+- View simulated order tracking details
 
 
