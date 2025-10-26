@@ -97,4 +97,4 @@ cd ordable-frontend-challenge
 npm install
 npm run dev (will start running on localhost)
 
-
+Deployed the frontend on vercel https://ordable-frontend-challenge-j7eajaii7-ahmed6913s-projects.vercel.app/
