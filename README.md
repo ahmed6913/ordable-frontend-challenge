@@ -75,3 +75,26 @@ This project focuses on frontend architecture, UI/UX, and efficient state handli
 - View simulated order tracking details
 
 
+## 🔧 Installation & Running Locally
+
+Follow the steps below to set up and run the project on your local machine.
+
+### ✅ Prerequisites
+
+Ensure you have installed:
+
+- **Node.js** v16 or newer  
+- **npm** (or yarn/pnpm)  
+- **Git**
+
+---
+
+### 📥 1. Clone the Repository
+
+```bash
+git clone https://github.com/ahmed6913/ordable-frontend-challenge.git
+cd ordable-frontend-challenge
+npm install
+npm run dev (will start running or localhost)
+
+
